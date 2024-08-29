@@ -1,0 +1,6 @@
+projectKey=harmeettestprojb
+serverUrl=http://localhost:9000
+serverVersion=8.9.10.61524
+dashboardUrl=http://localhost:9000/dashboard?id=harmeettestprojb
+ceTaskId=AZGfK5iL7A6r9W5-kKuG
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AZGfK5iL7A6r9W5-kKuG
